@@ -32,7 +32,7 @@ const NavBar = () => {
           Contact
         </a>
         <a
-          href="../../CV - Gonzalo Fara.pdf"
+          href="../../CV Gonzalo Fara.pdf"
           className="border-b-2 border-transparent hover:text-gray-200 hover:border-blue-500 mx-1.5 sm:mx-6"
         >
           <span className="flex items-center gap-px">
